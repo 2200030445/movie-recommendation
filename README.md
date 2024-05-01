@@ -1,1 +1,1 @@
-# movie-recommendation
+MSWD SDP Frontend App
